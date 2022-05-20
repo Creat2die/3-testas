@@ -1,0 +1,27 @@
+.header{
+    width: 70%;
+    background-color: red;
+}
+
+.menuitem{
+    display: inline-block;
+    padding: 10px 20px 10px 20px;
+    float: right;
+}
+
+.image{
+    width: 200px;
+    height: auto;
+    display: inline-block;
+}
+
+.headerleft{
+    width: 30%;
+    display: inline-block;
+    float: left;
+}
+.heaserright{
+    width: 60%;
+    display: inline-block;
+ 
+}
